@@ -1,1 +1,5 @@
 Hello word!
+
+string 2
+
+string 3
